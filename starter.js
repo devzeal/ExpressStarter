@@ -7,6 +7,4 @@ app.get('/', (req, res) => {
   res.sendFile('./index.html', { root: __dirname });
 });
 
-app.listen(PORT, () => {
-  console.log(`Website at http://localhost:3000`) // You can replace 3000 with ${PORT});
-});
+app.listen(PORT, () => console.log(`Website at http://localhost:3000`) // You can replace 3000 with ${PORT}););
