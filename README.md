@@ -1,4 +1,4 @@
-# ExpressStarter (This is not updated so you have to re install all the packages follow below)
+# ExpressStarter (I dont update node_modules)
 Just an express starter I made to save peoples time
 
 
