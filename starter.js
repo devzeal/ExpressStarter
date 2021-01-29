@@ -1,5 +1,6 @@
 //Feel free to change the file name 
 const express = require('express');
+const app = express();
 var PORT = 3000; //Feel free to link your dotenv here
 
 app.get('/', (req, res) => {
