@@ -8,5 +8,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Website at http://localhost:3000` // You can replace 3000 with ${PORT});
+  console.log(`Website at http://localhost:3000`) // You can replace 3000 with ${PORT});
 });
