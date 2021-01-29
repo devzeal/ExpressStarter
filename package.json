@@ -1,0 +1,24 @@
+{
+  "name": "expressstarter",
+  "version": "1.0.0",
+  "description": "Just an express starter I made to save peoples time",
+  "main": "starter.js",
+  "scripts": {
+    "start": "node starter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Looskie/ExpressStarter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Looskie/ExpressStarter/issues"
+  },
+  "homepage": "https://github.com/Looskie/ExpressStarter#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
