@@ -4,6 +4,7 @@
   "description": "Just an express starter I made to save peoples time",
   "main": "starter.js",
   "scripts": {
+    "start": "node starter.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
