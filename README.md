@@ -26,4 +26,5 @@ STARTER = shorter starter.js
 Again feel free to change starter.js to what you want but the actual js file must be called that
 
 
-Thanks to Looskie for contributing and adding a few features lol
+
+Thanks to all the contributors for adding stuff!
