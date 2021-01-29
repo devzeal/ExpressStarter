@@ -20,7 +20,10 @@ This installed express!
 Now you have one last step!!
 
 ```bash
-node starter
+npm run start
 ```
 STARTER = shorter starter.js
 Again feel free to change starter.js to what you want but the actual js file must be called that
+
+
+Thanks to Looskie for contributing and adding a few features lol
