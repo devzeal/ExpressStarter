@@ -27,4 +27,4 @@ Again feel free to change starter.js to what you want but the actual js file mus
 
 
 
-Thanks to all the contributors for adding stuff!
+Thanks to my friend for helping a LOT
