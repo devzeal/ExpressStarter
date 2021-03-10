@@ -1,4 +1,4 @@
-# ExpressStarter (I dont update node_modules)
+# ExpressStarter 
 Just an express starter I made to save peoples time
 
 
