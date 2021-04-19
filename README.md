@@ -1,6 +1,3 @@
-# ExpressStarter 
-Just an express starter I made to save peoples time
-
 
 # How to start a node project (For those that dont know) 
 
@@ -22,7 +19,5 @@ Now you have one last step!!
 ```bash
 npm run start
 ```
-STARTER = shorter starter.js
-Again feel free to change starter.js to what you want but the actual js file must be called that
-
+-This is a shorter way of starting the app
 
