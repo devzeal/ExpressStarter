@@ -20,4 +20,3 @@ Now you have one last step!!
 npm run start
 ```
 -This is a shorter way of starting the app
-
